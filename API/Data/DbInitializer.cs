@@ -74,12 +74,12 @@ namespace API.Data
                 },
                 new Product
                 {
-                    Name = "Never Summer Industries Entry Board",
+                    Name = "Never Summer Entry Board",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 12000,
                     PictureUrl = "/images/products/sb-nvsum1.png",
-                    Brand = "Never Summer Industries",
+                    Brand = "Never Summer",
                     Type = "Boards",
                     QuantityAvailable = 100
                 },
@@ -123,7 +123,7 @@ namespace API.Data
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1800,
                     PictureUrl = "/images/products/glove-salomon1.png",
-                    Brand = "VS Salomon",
+                    Brand = "Salomon",
                     Type = "Gloves",
                     QuantityAvailable = 100
                 },
@@ -134,7 +134,7 @@ namespace API.Data
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
                     Price = 1500,
                     PictureUrl = "/images/products/glove-salomon2.png",
-                    Brand = "VS Salomon",
+                    Brand = "Salomon",
                     Type = "Gloves",
                     QuantityAvailable = 100
                 },
